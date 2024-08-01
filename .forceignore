@@ -19,3 +19,7 @@ package.xml
 # LWC Jest
 **/__tests__/**
 **/__mocks__/**
+
+**/tsconfig.json
+
+**/*.ts
